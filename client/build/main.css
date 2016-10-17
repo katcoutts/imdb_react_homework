@@ -1,0 +1,25 @@
+body {
+  font-family: "Helvetica";
+}
+
+#app {
+  padding-left: 30px;
+  width: 40%;
+}
+
+a {
+  font-size: 14px;
+  color: blue;
+}
+
+a:hover{
+  color: green;
+}
+
+.film{
+  margin-top: 20px;
+}
+
+button{
+  margin-top: 20px;
+}
