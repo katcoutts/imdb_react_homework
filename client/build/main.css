@@ -7,6 +7,11 @@ body {
   width: 40%;
 }
 
+.film-box{
+  background-color: lightgrey;
+  padding: 15px;
+}
+
 a {
   font-size: 14px;
   color: blue;
@@ -22,4 +27,5 @@ a:hover{
 
 button{
   margin-top: 20px;
+  background-color: tomato;
 }
